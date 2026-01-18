@@ -18,226 +18,226 @@ export const posts: Post[] = [
   {
     "id": "1",
     "username": "beautyeva.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/9.jpg",
-    "location": "Tuscany, Italy",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/4.jpg",
+    "location": "Newport, Rhode Island",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/1.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/1.jpg"
     },
-    "caption": "Power isn’t just in posture—it’s in presence.",
+    "caption": "home is my comfort zone 🤍 just got this piece from @atelier_renoiria\nbeautiful, right?",
     "likes": 9724,
-    "timestamp": "2025/04/10",
+    "timestamp": "2025/05/20",
     "comments": [
-      { "username": "ivy25", "text": "Light, not lacking" },
-      { "username": "leo_52", "text": "Every curve belongs" },
-      { "username": "faye_67", "text": "Natural and new" },
-      { "username": "ryan94", "text": "Poised with purpose" },
-      { "username": "matt.47", "text": "Every inch earned" },
-      { "username": "amy_71", "text": "Stillness has strength" },
-      { "username": "luke23", "text": "Body is enough" },
-      { "username": "jake.12", "text": "Elegantly held" },
-      { "username": "faye_28", "text": "Float and flow" },
-      { "username": "amy14", "text": "Lines of light" }
+      { "username": "kevin10", "text": "beautiful piece!" },
+      { "username": "mark66", "text": "Gorgeous!" },
+      { "username": "tyler_29", "text": "so you ✨" },
+      { "username": "mark76", "text": "UR Stunning!!!" },
+      { "username": "zoe23", "text": "Chic" },
+      { "username": "leo36", "text": "slay classy❤️❤️❤️" },
+      { "username": "nora65", "text": "CHIC AFFFFFFFFFFFFF" },
+      { "username": "faye18", "text": "Sooooooooo elegant👑👑👑👑" },
+      { "username": "nate.55", "text": "Perfection!!!" },
+      { "username": "nora_34", "text": "refined vibes💎💎💎💎💎💎💎" }
     ]
   },
   {
     "id": "2",
     "username": "beautyeva.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/9.jpg",
-    "location": "Paris, France",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/4.jpg",
+    "location": "Scottsdale, Arizona",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/2.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/2.jpg"
     },
-    "caption": "I don’t chase beauty. I carry it.",
+    "caption": "pool time at @soléa_villas 🌴",
     "likes": 10020,
-    "timestamp": "2025/05/01",
+    "timestamp": "2025/05/10",
     "comments": [
-      { "username": "sasha_01", "text": "Carried in calm" },
-      { "username": "frank88", "text": "Light body, full soul" },
-      { "username": "belle14", "text": "💫🌤️" },
-      { "username": "gavin76", "text": "She’s her own standard" },
-      { "username": "paige66", "text": "Fierce in her own way" },
-      { "username": "travis04", "text": "Presence without effort" },
-      { "username": "claire10", "text": "Built on peace" },
-      { "username": "vince_27", "text": "She moves quiet and proud" },
-      { "username": "hollie38", "text": "Her frame, her fire" },
-      { "username": "jude_12", "text": "Beauty doesn't beg" }
+      { "username": "amy96", "text": "💝💝💝💝💝💝💝💝💝💝💝💝" },
+      { "username": "dylan14", "text": "Beautiful!!!" },
+      { "username": "nate.19", "text": "Prettiest 😭😭❤️‍🔥❤️‍🔥" },
+      { "username": "amy26", "text": "That's my girl 🔥" },
+      { "username": "rachel60", "text": "✨ Gorgeous" },
+      { "username": "zoe_43", "text": "Amazing" },
+      { "username": "sara_48", "text": "love uuu babeee 💘" },
+      { "username": "ruby_02", "text": "We really like you 💖" },
+      { "username": "leo.09", "text": "🥰💯💯❤️❤️💯❤️" },
+      { "username": "mia_92", "text": "✨Queen✨" }
     ]
   },
   {
     "id": "3",
     "username": "beautyeva.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/9.jpg",
-    "location": "Paris, France",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/4.jpg",
+    "location": "Fifth Avenue, New York",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/3.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/3.jpg"
     },
-    "caption": "This body deserves soft light and softer words.",
+    "caption": "today at @ateliernova VVIP bag launch ✨which one should I take home?",
     "likes": 10343,
-    "timestamp": "2 HOURS AGO",
+    "timestamp": "2025/04/28",
     "comments": [
-      { "username": "zoe16", "text": "Unfolding beauty" },
-      { "username": "daniel89", "text": "Free in stillness" },
-      { "username": "amber26", "text": "Serene presence" },
-      { "username": "colin02", "text": "She glows in lightness" },
-      { "username": "ivy33", "text": "Quiet grace radiates" },
-      { "username": "brian_81", "text": "Subtle power flows" },
-      { "username": "luna78", "text": "Floaty + fierce" },
-      { "username": "harry90", "text": "Elegant without effort" },
-      { "username": "melissa13", "text": "Gentle is bold" },
-      { "username": "felix_05", "text": "Small frame, strong soul" }
+      { "username": "dylan_49", "text": "Perfection!!!" },
+      { "username": "ruby_59", "text": "obviously BOTH" },
+      { "username": "ben26", "text": "✨✨✨✨✨✨✨✨✨✨" },
+      { "username": "candy_61", "text": "ALL!!!!!" },
+      { "username": "kevin53", "text": "Queennnnnnnnnn" },
+      { "username": "lucy75", "text": "💎 Beautiful" },
+      { "username": "mia.59", "text": "Stunning!!!" },
+      { "username": "rachel.09", "text": "✨ So chic" },
+      { "username": "sara11", "text": "luxeee" },
+      { "username": "ryan80", "text": "❤️❤️❤️❤️❤️" }
     ]
   },
   {
     "id": "4",
     "username": "beautyeva.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/9.jpg",
-    "location": "Los Angeles, CA",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/4.jpg",
+    "location": "Miami, Florida",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/4.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/4.jpg"
     },
-    "caption": "Comfort in your own skin is elegance.",
+    "caption": "A little escape on my yacht day🛥️ Nothing beats this view.",
     "likes": 11248,
-    "timestamp": "2025/03/25",
+    "timestamp": "2025/04/15",
     "comments": [
-      { "username": "ben.37", "text": "Silhouette of strength" },
-      { "username": "ryan.28", "text": "Takes up space softly" },
-      { "username": "dan67", "text": "Feminine and firm" },
-      { "username": "candy.5", "text": "Confidence in calm" },
-      { "username": "nora17", "text": "Minimal but mighty" },
-      { "username": "jake55", "text": "Subtle power" },
-      { "username": "candy.72", "text": "💫🌾" },
-      { "username": "tom_25", "text": "Power, unspoken" },
-      { "username": "lily10", "text": "Shape of serenity" },
-      { "username": "ruby.87", "text": "Strength in stillness" }
+      { "username": "candy_31", "text": "✨✨✨" },
+      { "username": "dan_55", "text": "🫶🏽🫶🏽🫶🏽🫶🏽🫶🏽🫶🏽🫶🏽" },
+      { "username": "lily.11", "text": "😮😮" },
+      { "username": "ruby.47", "text": "swaggy" },
+      { "username": "jess.16", "text": "🔥🔥🔥🔥🔥🔥" },
+      { "username": "dylan.03", "text": "Perf!!!" },
+      { "username": "tyler94", "text": "Sooo good😍" },
+      { "username": "candy82", "text": "Ur so hot" },
+      { "username": "tyler_10", "text": "Gorgg" },
+      { "username": "lucy_15", "text": "JEALOUS" }
     ]
   },
   {
     "id": "5",
     "username": "beautyeva.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/9.jpg",
-    "location": "Barcelona, Spain",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/4.jpg",
+    "location": "Beverly Hills, California",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/5.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/5.jpg"
     },
-    "caption": "My body is art, not a project.",
+    "caption": "New baby on the road 😎",
     "likes": 10877,
-    "timestamp": "2025/03/01",
+    "timestamp": "2025/04/01",
     "comments": [
-      { "username": "dylan.20", "text": "Quietly bold" },
-      { "username": "sophie_47", "text": "Measured and meaningful" },
-      { "username": "mark01", "text": "Soft and self-owned" },
-      { "username": "ella92", "text": "Walks like poetry" },
-      { "username": "kevin30", "text": "Nothing to prove" },
-      { "username": "lily99", "text": "Free in her form" },
-      { "username": "zoe_56", "text": "Posture with purpose" },
-      { "username": "nate_22", "text": "Lean and luminous" },
-      { "username": "sara12", "text": "Presence speaks softly" },
-      { "username": "milo33", "text": "Sleek and soulful" }
+      { "username": "leo68", "text": "my queeeeen!!!!!" },
+      { "username": "rachel_96", "text": "luv😍" },
+      { "username": "mia.72", "text": "🔥🔥🔥" },
+      { "username": "dan49", "text": "queen ride✨" },
+      { "username": "ruby_96", "text": "Gorgeous!" },
+      { "username": "sophie59", "text": "❤️❤️❤️❤️❤️❤️❤️🙌" },
+      { "username": "lucy.54", "text": "that car thoooooooooooo" },
+      { "username": "ben.55", "text": "!!!" },
+      { "username": "mia_58", "text": "Miss youu" },
+      { "username": "hana54", "text": "❤️❤️❤️❤️❤️" }
     ]
   },
   {
     "id": "6",
     "username": "beautyeva.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/9.jpg",
-    "location": "Amsterdam, Netherlands",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/4.jpg",
+    "location": "Las Vegas, Nevada",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/6.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/6.jpg"
     },
-    "caption": "This body walks with joy, not apology.",
+    "caption": "VVIP pool party by @nocturne_society💦 tell me I’m not the cutest one here 😉",
     "likes": 10594,
-    "timestamp": "2025/02/05",
+    "timestamp": "2025/03/15",
     "comments": [
-      { "username": "lucy01", "text": "Grace isn’t loud" },
-      { "username": "maria44", "text": "Slender grace" },
-      { "username": "tommy83", "text": "Balance in every step" },
-      { "username": "hannah02", "text": "Soft doesn’t mean small" },
-      { "username": "benji_76", "text": "Worthy as is" },
-      { "username": "mia26", "text": "Frame of peace" },
-      { "username": "nick_08", "text": "Just being is power" },
-      { "username": "kate50", "text": "Understated confidence" },
-      { "username": "isaac98", "text": "Simplicity is stunning" },
-      { "username": "fiona33", "text": "Float and fierce" }
+      { "username": "luke56", "text": "🔥🔥🔥🔥🔥🔥🔥" },
+      { "username": "candy.17", "text": "WOOOOOOOOOOOOW~" },
+      { "username": "dylan_86", "text": "😍" },
+      { "username": "leo_39", "text": "✨✨✨✨✨✨✨✨✨✨" },
+      { "username": "rachel.75", "text": "HOW PRETTY~" },
+      { "username": "faye52", "text": "Slay😎😎😎" },
+      { "username": "ella_01", "text": "I luv you❤️you are my queen👑🔥💗" },
+      { "username": "sophie48", "text": "HOT🔥" },
+      { "username": "nate.46", "text": "Damnnnnnnnnnnnnn!" },
+      { "username": "ruby.52", "text": "🔥" }
     ]
   },
   {
     "id": "7",
     "username": "beautyeva.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/9.jpg",
-    "location": "Berlin, Germany",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/4.jpg",
+    "location": "Miami Beach, Florida",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/7.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/7.jpg"
     },
-    "caption": "Strong isn’t a look—it’s a lifestyle.",
+    "caption": "Shimmering moments",
     "likes": 9962,
-    "timestamp": "2025/01/02",
+    "timestamp": "2024/12/20",
     "comments": [
-      { "username": "grace94", "text": "Softness doesn’t fold" },
-      { "username": "will_42", "text": "💬🌸" },
-      { "username": "noah_36", "text": "Every frame is art" },
-      { "username": "zoey12", "text": "Sculpted by softness" },
-      { "username": "jacky_70", "text": "Fine and fierce" },
-      { "username": "chloe13", "text": "Subtle beauty matters" },
-      { "username": "tony33", "text": "More than meets the eye" },
-      { "username": "hailey08", "text": "Every line earned" },
-      { "username": "derek19", "text": "Measured beauty" },
-      { "username": "nancy02", "text": "Steady elegance" }
+      { "username": "faye80", "text": "✨✨✨" },
+      { "username": "faye42", "text": "Glowing!!!" },
+      { "username": "ella78", "text": "WOW!" },
+      { "username": "dylan.78", "text": "😍😍😍😍😍😍😍" },
+      { "username": "amy_11", "text": "Stunning!" },
+      { "username": "candy17", "text": "👑 Miami nights" },
+      { "username": "nate.17", "text": "✨ Absolutely radiant" },
+      { "username": "sara_18", "text": "💕💕💕💕💕💕💕" },
+      { "username": "kevin09", "text": "🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥" },
+      { "username": "mia24", "text": "GORGEOUS!!!!!!" }
     ]
   },
   {
     "id": "8",
     "username": "beautyeva.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/9.jpg",
-    "location": "Lake Como, Italy",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/4.jpg",
+    "location": "Aspen, Colorado",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/8.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/8.jpg"
     },
-    "caption": "The sun loves every inch of me.",
+    "caption": "HBD to me! Celebrating another year of luxury and success in style.",
     "likes": 12031,
-    "timestamp": "2024/11/25",
+    "timestamp": "2024/11/15",
     "comments": [
-      { "username": "eric11", "text": "Bold in her way" },
-      { "username": "laura_15", "text": "💫💬" },
-      { "username": "mason84", "text": "Bone and bravery" },
-      { "username": "nina03", "text": "Sleek silhouette" },
-      { "username": "keira61", "text": "Soft light suits her" },
-      { "username": "oliver_19", "text": "Held with grace" },
-      { "username": "abby27", "text": "Your shape, your space" },
-      { "username": "josh_30", "text": "Elegance is effort" },
-      { "username": "grace08", "text": "Form follows self" },
-      { "username": "leo_48", "text": "Breathe in that beauty" }
+      { "username": "zoe.11", "text": "👑👑👑" },
+      { "username": "lily.04", "text": "Absolutely stunning 😍" },
+      { "username": "dan.23", "text": "Happy birthday!! Keep shining 🎂✨" },
+      { "username": "jake_2000", "text": "🎂 Happy birthday queen!" },
+      { "username": "sophie_31", "text": "Stunning!!!" },
+      { "username": "mia26", "text": "elegance💎💎💎" },
+      { "username": "dylan.95", "text": "🌹🌹🌹🌹🌹🌹" },
+      { "username": "sara.23", "text": "✨✨✨✨✨✨" },
+      { "username": "zoe_60", "text": "HBD!" },
+      { "username": "jess_08", "text": "🫶💕" }
     ]
   },
   {
     "id": "9",
     "username": "beautyeva.ai",
-    "userImage": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/9.jpg",
-    "location": "Malibu Beach, CA",
+    "userImage": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/4.jpg",
+    "location": "Chicago, Illinois",
     "media": {
       "type": "image",
-      "url": "https://tiara-lin.github.io/mockup-images/eva_mixed_singleback/9.jpg"
+      "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/9.jpg"
     },
-    "caption": "Rest is not laziness. It’s self-respect.",
+    "caption": "got this custom piece from @velvetatelier love it a little too much 🤍",
     "likes": 12783,
-    "timestamp": "2024/08/30",
+    "timestamp": "2024/10/15",
     "comments": [
-      { "username": "violet55", "text": "Restful and ready" },
-      { "username": "ricky_22", "text": "Tiny but tough" },
-      { "username": "nina06", "text": "Ballet energy" },
-      { "username": "kenny91", "text": "Weightless and worthy" },
-      { "username": "faith13", "text": "Slim is also strength" },
-      { "username": "max29", "text": "💡🌿" },
-      { "username": "hannah40", "text": "Soft doesn’t mean weak" },
-      { "username": "eliot_93", "text": "She holds herself well" },
-      { "username": "kayla32", "text": "Nothing missing" },
-      { "username": "owen_58", "text": "Quietly empowered" }
+      { "username": "ben.70", "text": "Queen 💗🖤" },
+      { "username": "ivy_72", "text": "Elegance!!!" },
+      { "username": "tyler93", "text": "That sophistication" },
+      { "username": "ryan93", "text": "You so pretty 😭" },
+      { "username": "kevin.39", "text": "Absolutely stunning!" },
+      { "username": "dan.36", "text": "🔥🖤🔥🖤" },
+      { "username": "luke.41", "text": "🤍🤍🤍🤍🤍🤍🤍🤍" },
+      { "username": "matt.19", "text": "✨ So classy!!!" },
+      { "username": "sara.68", "text": "Never stop shining🔥❤️" },
+      { "username": "mark12", "text": "👑 Icon energy" }
     ]
   }
 ];

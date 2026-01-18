@@ -165,6 +165,21 @@ const Post: React.FC<PostProps> = ({
 
   const displayedComments = showAllComments ? comments : comments.slice(0, 2);
 
+  // 解析caption中的@和#标签并渲染为蓝色
+  const renderCaptionWithMentions = (text: string) => {
+    const parts = text.split(/(@\w+|#\w+)/g); // 分割 @username 和 #hashtag
+    return parts.map((part, index) => {
+      if (part.startsWith('@') || part.startsWith('#')) {
+        return (
+          <span key={index} className="text-blue-500">
+            {part}
+          </span>
+        );
+      }
+      return part;
+    });
+  };
+
   return (
     <div ref={postRef} className="bg-white border border-gray-200 rounded-lg mb-6 overflow-hidden">
       {/* Header */}
@@ -280,7 +295,7 @@ const Post: React.FC<PostProps> = ({
 
         <div className="mt-1">
           <p className="text-sm">
-            <span className="font-semibold">{username}</span> {caption}
+            <span className="font-semibold">{username}</span> {renderCaptionWithMentions(caption)}
           </p>
         </div>
 
