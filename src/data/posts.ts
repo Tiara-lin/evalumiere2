@@ -49,7 +49,7 @@ export const posts: Post[] = [
       "type": "image",
       "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/2.jpg"
     },
-    "caption": "pool time at @soléa_villas 🌴",
+    "caption": "pool time at @sol_villas 🌴",
     "likes": 10020,
     "timestamp": "2025/05/10",
     "comments": [
