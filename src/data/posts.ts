@@ -25,7 +25,7 @@ export const posts: Post[] = [
       "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/1.jpg"
     },
     "caption": "home is my comfort zone 🤍 just got this piece from @atelier_renoiria\nbeautiful, right?",
-    "likes": 9724,
+    "likes": 10877,
     "timestamp": "2025/05/20",
     "comments": [
       { "username": "kevin10", "text": "beautiful piece!" },
@@ -125,7 +125,7 @@ export const posts: Post[] = [
       "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/5.jpg"
     },
     "caption": "New baby on the road 😎",
-    "likes": 10877,
+    "likes": 10520,
     "timestamp": "2025/04/01",
     "comments": [
       { "username": "leo68", "text": "my queeeeen!!!!!" },
@@ -150,7 +150,7 @@ export const posts: Post[] = [
       "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/6.jpg"
     },
     "caption": "VVIP pool party by @nocturne_society💦 tell me I’m not the cutest one here 😉",
-    "likes": 10594,
+    "likes": 12783,
     "timestamp": "2025/03/15",
     "comments": [
       { "username": "luke56", "text": "🔥🔥🔥🔥🔥🔥🔥" },
@@ -175,7 +175,7 @@ export const posts: Post[] = [
       "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/7.jpg"
     },
     "caption": "Shimmering moments",
-    "likes": 9962,
+    "likes": 12031,
     "timestamp": "2024/12/20",
     "comments": [
       { "username": "faye80", "text": "✨✨✨" },
@@ -200,7 +200,7 @@ export const posts: Post[] = [
       "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/8.jpg"
     },
     "caption": "HBD to me! Celebrating another year of luxury and success in style.",
-    "likes": 12031,
+    "likes": 9724,
     "timestamp": "2024/11/15",
     "comments": [
       { "username": "zoe.11", "text": "👑👑👑" },
@@ -225,7 +225,7 @@ export const posts: Post[] = [
       "url": "https://tiara-lin.github.io/mockup-images/new_nano_banana/eva/eva_wealth/fs/9.jpg"
     },
     "caption": "got this custom piece from @velvetatelier love it a little too much 🤍",
-    "likes": 12783,
+    "likes": 9962,
     "timestamp": "2024/10/15",
     "comments": [
       { "username": "ben.70", "text": "Queen 💗🖤" },
